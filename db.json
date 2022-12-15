@@ -1,0 +1,45 @@
+{
+  "medicamentos": [
+    {
+      "tipo": "Genérico",
+      "nome": "Dipirona",
+      "preço": "10,00",
+      "descrição": "Remédio para tratar sintomas como dor e febre",
+      "id": 1
+    },
+    {
+      "tipo": "Genérico",
+      "nome": "Dorflex",
+      "preço": "6,39",
+      "descrição": "Remédio para tratar sintomas como dores musculares",
+      "id": 2
+    }
+  ],
+  "beleza": [
+    {
+      "id": 2,
+      "tipo": "Shampoo",
+      "nome": "Elseve",
+      "preço": "26,06",
+      "descrição": "Serve para remover a sujeira do cabelo e do couro cabeludo"
+    }
+  ],
+  "higiene pessoal": [
+    {
+      "id": 3,
+      "tipo": "Desodorante",
+      "nome": "Rexona",
+      "preço": "9,98",
+      "descrição": "controlar o suor produzido pelas glândulas das axilas e impedir a formação do mau cheiro durante o dia"
+    }
+  ],
+  "bebê": [
+    {
+      "id": 4,
+      "tipo": "Fralda",
+      "nome": "Pampers",
+      "preço": "16,24",
+      "descrição": "controle de suas necessidades fisiológicas"
+    }
+  ]
+}
