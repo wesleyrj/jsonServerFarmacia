@@ -13,33 +13,117 @@
       "preço": "6,39",
       "descrição": "Remédio para tratar sintomas como dores musculares",
       "id": 2
+    },
+    {
+      "tipo": "Original",
+      "nome": "Neosaldina",
+      "preço": "8,20",
+      "descrição": "diminui a dor e antiespasmódica diminui contração involuntária",
+      "id": 3
+    },
+    {
+      "tipo": "Genérico",
+      "nome": "Soro fisiológico adv",
+      "preço": "11,90",
+      "descrição": "O soro é indicado para limpeza de lentes de contato; limpeza de ferimentos e curativos",
+      "id": 4
     }
   ],
   "beleza": [
     {
-      "id": 2,
+      "id": 1,
       "tipo": "Shampoo",
       "nome": "Elseve",
       "preço": "26,06",
       "descrição": "Serve para remover a sujeira do cabelo e do couro cabeludo"
+    },
+    {
+      "id": 2,
+      "tipo": "Shampoo",
+      "nome": "ClearMen",
+      "preço": "26,06",
+      "descrição": "Serve para remover a sujeira do cabelo e do couro cabeludo e caspas"
+    },
+    {
+      "id": 3,
+      "tipo": "Tinta de cabelo",
+      "nome": "Koleston",
+      "preço": "33,01",
+      "descrição": "Colorir o coro cabeludo"
+    },
+    {
+      "id": 4,
+      "tipo": "Maquiagem",
+      "nome": "Loreal Paris",
+      "preço": "34,69",
+      "descrição": "controla a oleosidade, suaviza imperfeições, hidrata a pele, protege contra efeitos nocivos dos raios solares"
     }
   ],
   "higiene_pessoal": [
     {
-      "id": 3,
+      "id": 1,
       "tipo": "Desodorante",
       "nome": "Rexona",
       "preço": "9,98",
       "descrição": "controlar o suor produzido pelas glândulas das axilas e impedir a formação do mau cheiro durante o dia"
+    },
+    {
+      "id": 2,
+      "tipo": "Sabonete",
+      "nome": "Protex",
+      "preço": "1,99",
+      "descrição": "Limpeza da pele"
+    },
+    {
+      "id": 3,
+      "tipo": "Pasta de dente",
+      "nome": "Colgate",
+      "preço": "3,99",
+      "descrição": "Limpeza dos dentes e gengivas"
+    },
+    {
+      "id": 4,
+      "tipo": "Absorvente",
+      "nome": "Always",
+      "preço": "13,89",
+      "descrição": "Proteção intima feminina"
     }
   ],
   "bebe": [
     {
-      "id": 4,
+      "id": 1,
       "tipo": "Fralda",
       "nome": "Pampers",
       "preço": "16,24",
       "descrição": "controle de suas necessidades fisiológicas"
+    },
+    {
+      "id": 2,
+      "tipo": "Lenço Umidecido",
+      "nome": "Huggies",
+      "preço": "49,39",
+      "descrição": "garantir uma limpeza segura e efetiva da pele do seu bebê. Além de ajudar a prevenir assaduras e oferecer praticidade ao seu dia a dia."
+    },
+    {
+      "id": 3,
+      "tipo": "Pomada Assadura",
+      "nome": "Hipoglós",
+      "preço": "18,29",
+      "descrição": "proteger a pele delicada do bebê contra assaduras"
+    },
+    {
+      "id": 4,
+      "tipo": "Mamadeira",
+      "nome": "Philips",
+      "preço": "31,99",
+      "descrição": " é utilizada quando, por certos motivos, o bebê não pode ser amamentado pela mãe"
+    },
+    {
+      "tipo": "Shupeta",
+      "nome": "Jhonson&Jhonson",
+      "preço": "5,00",
+      "descrição": "Brinquedo para crinaças",
+      "id": 5
     }
   ]
 }
