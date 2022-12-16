@@ -24,7 +24,7 @@
       "descrição": "Serve para remover a sujeira do cabelo e do couro cabeludo"
     }
   ],
-  "higiene pessoal": [
+  "higiene_pessoal": [
     {
       "id": 3,
       "tipo": "Desodorante",
@@ -33,7 +33,7 @@
       "descrição": "controlar o suor produzido pelas glândulas das axilas e impedir a formação do mau cheiro durante o dia"
     }
   ],
-  "bebê": [
+  "bebe": [
     {
       "id": 4,
       "tipo": "Fralda",
