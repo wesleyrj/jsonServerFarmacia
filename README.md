@@ -4,6 +4,8 @@ Proposta: Desenvolver um servidor json (Json-server) onde irá conter 3 rotas co
 
 Tema selecionado: Farmácia
 
+link do render.com: https://json-farmacia-wesley.onrender.com/
+
 Ferramentas: VSCode, render.com, JsonServer, github, thunder client, etc..
 
 Organização do Código
